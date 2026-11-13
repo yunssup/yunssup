@@ -48,8 +48,6 @@
 <div align="center">
   <a href="mailto:btob031541@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://velog.io/@yunssup/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" /></a>
-  <a href="https://coal-pet-a9d.notion.site/00c15b0141cd42818a3473a1b0bec5cf"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" /></a>
-  <a href="https://www.instagram.com/yunssup._.p/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <br />
