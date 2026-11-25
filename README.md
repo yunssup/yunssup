@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,50:ffa6c1,100:ff7aa2&height=220&section=header&text=yunssup&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20Analytics%20%C2%B7%20Web&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="yunssup" />
+<img src="./assets/header.svg" width="100%" alt="yunssup" />
 
 <a href="https://github.com/yunssup"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=22&duration=3000&pause=800&color=FF7AA2&center=true&vCenter=true&width=480&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+yunssup+%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C+%EC%9D%B8%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A5%BC+%EC%B0%BE%EC%95%84%EC%9A%94+%F0%9F%93%8A" alt="Typing intro" /></a>
 
@@ -39,8 +39,8 @@
 <h2 align="center">🏅 GitHub Stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yunssup&show_icons=true&rank_icon=github&bg_color=30,fff0f4,ffd6e0&title_color=ff5c8a&text_color=333333&icon_color=ff7aa2&ring_color=ff7aa2&hide_border=true&border_radius=12" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yunssup&layout=compact&bg_color=30,fff0f4,ffd6e0&title_color=ff5c8a&text_color=333333&hide_border=true&border_radius=12" alt="Top Languages" />
+  <img height="170" src="https://YOUR-APP.vercel.app/api?username=yunssup&show_icons=true&rank_icon=github&bg_color=30,fff0f4,ffd6e0&title_color=ff5c8a&text_color=333333&icon_color=ff7aa2&ring_color=ff7aa2&hide_border=true&border_radius=12" alt="GitHub Stats" />
+  <img height="170" src="https://YOUR-APP.vercel.app/api/top-langs/?username=yunssup&layout=compact&bg_color=30,fff0f4,ffd6e0&title_color=ff5c8a&text_color=333333&hide_border=true&border_radius=12" alt="Top Languages" />
 </div>
 
 <h2 align="center">📬 Contact</h2>
@@ -52,4 +52,4 @@
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7aa2,50:ffa6c1,100:ffd6e0&height=120&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
